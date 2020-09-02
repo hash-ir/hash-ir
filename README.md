@@ -5,6 +5,13 @@ I am a Master student at Technical University of Munich, specializing in Compute
 
 Here are some ideas to get you started:
 -->
+### Connect with me:
+[<img align="left" alt="Hashir | Blog" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />](https://hash-ir.github.io/)
+[<img align="left" alt="Hashir | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/hashir-ahmad/)
+[<img align="left" alt="Hashir | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />](https://www.instagram.com/hash_ir/)
+[<img align="left" alt="Hashir | Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.6.1/icons/telegram.svg" />](https://t.me/hash_ir)
+<br>
+
 ### Here goes nothing
 - 🔭 I’m currently working on an **interdisciplinary project**
 - 🌱 I’m currently learning more about **Graph Neural Networks**
@@ -13,5 +20,24 @@ Here are some ideas to get you started:
 - 📫 How to reach me: hashir.ahmad@tum.de
 - 😄 Pronouns: **#IR**
 - ⚡ Fun fact: **Chai over Coffee**
+
+### Technology Stack
+[<img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />](Python)
+[<img align="left" alt="PyTorch" width="26px" src="https://github.com/pytorch/pytorch/blob/master/docs/source/_static/img/pytorch-logo-flame.png?raw=true" />](PyTorch)
+[<img align="left" alt="NumPy" width="26px" src="https://numpy.org/images/logos/numpy.svg" />](NumPy)
+[<img align="left" alt="OpenCV" width="26px" src="https://github.com/opencv/opencv/blob/master/doc/opencv-logo.png?raw=true" />](OpenCV)
+[<img align="left" alt="Pandas" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.6.1/icons/pandas.svg" />](Pandas)
+[<img align="left" alt="LaTeX" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/latex/latex.png" />](LaTeX)
+<br />
+
+[<img align="left" alt="Markdown" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/markdown/markdown.png" />](Markdown)
+[<img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/ubuntu/ubuntu.png" />](Ubuntu)
+[<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />](Git)
+[<img align="left" alt="Github" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />](Github)
+[<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />](Visual-Studio-Code)
+[<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />](Terminal)
+
+
+
 
 
