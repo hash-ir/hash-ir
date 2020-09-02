@@ -41,6 +41,11 @@ Here are some ideas to get you started:
 
 ### Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Precision and Recall: A different perspective](https://hash-ir.github.io/2020/08/25/precision-recall/)
+- [Why is Softmax called 'Softmax'?](https://hash-ir.github.io/2020/08/08/softmax/)
+- [Sheldon Cooper meets Hanno Tauber (Noah)](https://hash-ir.github.io/2020/08/08/ff-dark-bigbangtheory/)
+- [Model deployment using Amazon SageMaker | Part 1](https://hash-ir.github.io/2020/07/02/sagemaker-deployment/)
+- [Dog Breed Classifier](https://hash-ir.github.io/2020/05/31/dog-breed-classifier/)
 <!-- BLOG-POST-LIST:END -->
 
 
