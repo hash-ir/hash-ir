@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 
 <br>
 
-<img align="right" alt="gif" src="./images/code-cool.gif" width="250px" />
+<img align="right" alt="gif" src="images/code-cool.gif" width="250px" />
 
 ### Here goes nothing
 - 🔭 I’m currently working on an **interdisciplinary project**
