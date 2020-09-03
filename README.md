@@ -10,7 +10,10 @@ Here are some ideas to get you started:
 [<img align="left" alt="Hashir | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/hashir-ahmad/)
 [<img align="left" alt="Hashir | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />](https://www.instagram.com/hash_ir/)
 [<img align="left" alt="Hashir | Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.6.1/icons/telegram.svg" />](https://t.me/hash_ir)
+
 <br>
+
+<img align="right" alt="gif" src="./images/code-cool.gif" width="250px" />
 
 ### Here goes nothing
 - 🔭 I’m currently working on an **interdisciplinary project**
