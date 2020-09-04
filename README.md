@@ -51,7 +51,9 @@ Here are some ideas to get you started:
 - [Dog Breed Classifier](https://hash-ir.github.io/2020/05/31/dog-breed-classifier/)
 <!-- BLOG-POST-LIST:END -->
 
-
+### Credits 
+* [Gautam Krishna R](https://github.com/gautamkrishnar) for `blog-post-workflow.yml`
+* [codeSTACKr](https://github.com/codeSTACKr/) for the awesome YouTube video for adding icons
 
 
 
