@@ -13,13 +13,11 @@ Here are some ideas to get you started:
 
 <br>
 
-<img align="right" alt="gif" src="https://media.giphy.com/media/RK5KD6UcUpAt92zZvt/giphy.gif" width="250px" />
-
 ### Here goes nothing
 - 🔭 I’m currently working on an **interdisciplinary project**
 - 🌱 I’m currently learning more about **Graph Neural Networks**
 - 👯 I’m looking to collaborate on **Kaggle competitions and open-source projects**
-- 💬 Ask me about **PyTorch, NumPy, LaTeX, Git**
+- 💬 Ask me about **computer vision, generative models, master's in germany, netflix recommendations, indian recipes**
 - 📫 How to reach me: hashir.ahmad@tum.de
 - 😄 Pronouns: **#IR**
 - ⚡ Fun fact: **Chai over Coffee**
@@ -53,7 +51,7 @@ Here are some ideas to get you started:
 
 ### Credits 
 * [Gautam Krishna R](https://github.com/gautamkrishnar) for `blog-post-workflow.yml`
-* [codeSTACKr](https://github.com/codeSTACKr/) for the awesome YouTube video for adding icons
+* [codeSTACKr](https://github.com/codeSTACKr/) for the awesome YouTube [video](https://www.youtube.com/watch?v=n6d4KHSKqGk) for adding icons
 
 
 
