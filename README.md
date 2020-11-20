@@ -1,5 +1,5 @@
 ## Hi there, I am Hashir 👋
-I am a Master student at Technical University of Munich, specializing in Computer Vision and Deep Generative Models. I document my projects, creative work and learned skills on my [blog](https://hash-ir.github.io/). If you find anything valuable here, please show some ❤️ and don't forget to give it a ⭐️. 
+I am a Master student at Technical University of Munich, specializing in Machine Learning and Data Analytics. I document my projects, creative work and learned skills on my [blog](https://hash-ir.github.io/). If you find anything valuable here, please show some ❤️ and don't forget to give it a ⭐️. 
 <!--
 **hash-ir/hash-ir** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
