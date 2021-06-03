@@ -38,13 +38,11 @@ Here are some ideas to get you started:
 <!--
 ### Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-<!--
 - [Precision and Recall: A different perspective](https://hash-ir.github.io/blog/precision-recall)
 - [Why is Softmax called 'Softmax'?](https://hash-ir.github.io/blog/softmax)
 - [Sheldon Cooper meets Hanno Tauber (Noah)](https://hash-ir.github.io/blog/ff-dark-bigbangtheory)
 - [Udacity Projects Series | Part 1: Predicting Bike Sharing Patterns](https://hash-ir.github.io/blog/bike-sharing-patterns)
 - [Sherlock meets Robert Baratheon](https://hash-ir.github.io/blog/ff-got-sherlock)
--->
 <!-- BLOG-POST-LIST:END -->
 
 
