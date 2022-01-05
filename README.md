@@ -16,6 +16,8 @@ Here are some ideas to get you started:
 - 🌱 currently working on **Graph Neural Networks**
 - 👯 looking to collaborate on **open-source projects**
 - 📫 How to reach me: hashir.ahmad@tum.de
+- 🔭 Find more about me [here](https://hash-ir.github.io/)
+- ⚡ Fun fact: Chai over Coffee
 
 <!--
 ### Tech Stack
