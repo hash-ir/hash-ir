@@ -1,5 +1,13 @@
 ## Hi there, I am Hashir 👋
-I am a Master student at the Technical University of Munich, specializing in Machine Learning and Data Analytics.  
+I am a Research Engineer working at the intersection of neurobiology (connectomics), computer science and machine learning. Always looking to collaborate on open-source projects and hackathons. If you have something interesting for me, please reach out! 
+
+You can support my work by buying me a coffee:
+<p align="center">
+  <a href="https://www.buymeacoffee.com/hashirahmad" target="_blank" align="center">
+    <img align="center" width="150" alt="Buy me a coffee!" src="https://user-images.githubusercontent.com/45996390/207982125-1c9634e2-c9eb-46d0-b2bf-69b7645f8afd.png"/> 
+  </a>
+</p>
+
 <!--
 **hash-ir/hash-ir** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -13,11 +21,20 @@ Here are some ideas to get you started:
 
 <br>
 -->
-- 🌱 currently working on **Graph Neural Networks**
-- 👯 looking to collaborate on **open-source projects**
-- 📫 How to reach me: hashir.ahmad@tum.de
+- 🌱 Currently working on **[SyConn](https://syconn.readthedocs.io/en/latest/)**
+- 👯 Looking to collaborate on **open-source projects**
+- 💬 Ask me about #graphneuralnetworks, #connectomics, #softwaredevelopment
+- 📫 How to reach me: hashirahmad@zhcet.ac.in
 - 🔭 Find more about me [here](https://hash-ir.github.io/)
-- ⚡ Fun fact: Chai over Coffee
+
+[![An image of @hash_ir's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/hash_ir)](https://holopin.io/@hash_ir)
+
+[![](https://img.shields.io/static/v1?logo=LinkedIn&logoColor=blue&label=Connect&message=1526&color=blue&style=for-the-badge)](https://www.linkedin.com/in/hashir-ahmad/)
+[![](https://img.shields.io/twitter/follow/_hash_ir_?color=blue&logo=twitter&style=for-the-badge)](https://twitter.com/_hash_ir_)
+[![](https://komarev.com/ghpvc/?logo=GitHub&username=hash-ir&label=PROFILE+VIEWS&style=for-the-badge)]()
+<!--
+![](https://img.shields.io/badge/MaxPlanckGesellschaft-006C66.svg?style=for-the-badge&logo=Max-Planck-Gesellschaft&logoColor=white)
+-->
 
 <!--
 ### Tech Stack
@@ -36,16 +53,3 @@ Here are some ideas to get you started:
 [<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />](microsoft/vscode)
 [<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />](topics/terminal)
 -->
-
-<!--
-
-
-<!--
-### Credits 
-* [Gautam Krishna R](https://github.com/gautamkrishnar) for `blog-post-workflow.yml`
-* [codeSTACKr](https://github.com/codeSTACKr/) for the awesome YouTube [video](https://www.youtube.com/watch?v=n6d4KHSKqGk) for adding icons
--->
-
-
-
-
