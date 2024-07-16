@@ -1,6 +1,7 @@
 ## Hi there, I am Hashir 👋
-I am a Research Engineer working at the intersection of neurobiology (connectomics), computer science and machine learning. Always looking to collaborate on open-source projects and hackathons. If you have something interesting for me, please reach out! 
+I am a Research Engineer working at the intersection of neuroscience (connectomics), computer science and machine learning.
 
+<!--
 You can support my work by buying me a coffee:
 <p align="center">
   <a href="https://www.buymeacoffee.com/hashirahmad" target="_blank" align="center">
@@ -27,6 +28,8 @@ Here are some ideas to get you started:
 - 📫 How to reach me: hashirahmad@zhcet.ac.in
 - 🔭 Find more about me [here](https://hash-ir.github.io/)
 
+If you have something interesting for me, please reach out! 
+<!--
 [![An image of @hash_ir's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/hash_ir)](https://holopin.io/@hash_ir)
 
 [![](https://img.shields.io/static/v1?logo=LinkedIn&logoColor=blue&label=Connect&message=1526&color=blue&style=for-the-badge)](https://www.linkedin.com/in/hashir-ahmad/)
