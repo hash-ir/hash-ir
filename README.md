@@ -23,10 +23,10 @@ Here are some ideas to get you started:
 <br>
 -->
 - 🌱 Currently working on **[SyConn](https://syconn.readthedocs.io/en/latest/)**
+- 👨‍🎓 Studied Master's in Informatics @ [TUM](https://www.tum.de/en/)
 - 👯 Looking to collaborate on **open-source projects**
-- 💬 Ask me about #graphneuralnetworks, #connectomics, #softwaredevelopment
+- 💬 Ask me about #softwaredevelopment, #machinelearning, #computationalneuroscience
 - 📫 How to reach me: hashirahmad@zhcet.ac.in
-- 🔭 Find more about me [here](https://hash-ir.github.io/)
 
 If you have something interesting for me, please reach out! 
 <!--
