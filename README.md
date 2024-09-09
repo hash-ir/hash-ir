@@ -1,5 +1,5 @@
 ## Hi there, I am Hashir 👋
-I am a Research Engineer working at the intersection of neuroscience (connectomics), computer science and machine learning.
+I am a Research Engineer with expertise in machine learning (including deep learning), computational modeling, and software development
 
 <!--
 You can support my work by buying me a coffee:
@@ -22,13 +22,13 @@ Here are some ideas to get you started:
 
 <br>
 -->
-- 🌱 Currently working on **[SyConn](https://syconn.readthedocs.io/en/latest/)**
+- 🌱 Exploring machine learning use-cases, large language models, and agentic AI
 - 👨‍🎓 Studied Master's in Informatics @ [TUM](https://www.tum.de/en/)
-- 👯 Looking to collaborate on **open-source projects**
-- 💬 Ask me about #softwaredevelopment, #machinelearning, #computationalneuroscience
-- 📫 How to reach me: hashirahmad@zhcet.ac.in
+- 👯 Always looking to collaborate on **open-source projects**
+- 💬 Ask me about #machinelearning, #largelanguagemodels, and #computationalneuroscience
+- 📫 How to reach me: [E-Mail](mailto:hashir.ahmad7@gmail.com) | [LinkedIn](https://www.linkedin.com/in/hashir-ahmad/) | [X](https://x.com/_hash_ir_)
 
-If you have something interesting for me, please reach out! 
+Let's connect and build something amazing together!
 <!--
 [![An image of @hash_ir's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/hash_ir)](https://holopin.io/@hash_ir)
 
