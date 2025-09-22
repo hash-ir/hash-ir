@@ -1,5 +1,5 @@
 ## Hi there, I am Hashir 👋
-I am a Research Engineer with expertise in machine learning (including deep learning), computational modeling, and software development
+I am a Software Engineer with expertise in software development, data pipelines, and machine learning (including deep learning)
 
 <!--
 You can support my work by buying me a coffee:
@@ -22,11 +22,10 @@ Here are some ideas to get you started:
 
 <br>
 -->
-- 🌱 Exploring machine learning use cases, large language models, and agentic AI
-- 👨‍🎓 Studied Master's in Informatics @ [TUM](https://www.tum.de/en/)
-- 🎯 Prepping up for AWS Solutions Architect Associate Certification (SAA-C03) 
+- 🌱 Exploring software design philosophy, architectures (that make sense and scale to 1B users), and agentic AI use-cases
+- 👨‍🎓 Studied Master's in Informatics @ [TUM](https://www.tum.de/en/) 
 - 👯 Always looking to collaborate on **open-source projects**
-- 💬 Ask me about #machinelearning, #largelanguagemodels, and #computationalneuroscience
+- 💬 Ask me about #softwaredevelopment #machinelearning, #largelanguagemodels, and #computationalneuroscience
 - 📫 How to reach me: [E-Mail](mailto:hashir.ahmad7@gmail.com) | [LinkedIn](https://www.linkedin.com/in/hashir-ahmad/) | [X](https://x.com/_hash_ir_)
 
 Let's connect and build something amazing together!
